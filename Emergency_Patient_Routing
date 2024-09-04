@@ -1,0 +1,6 @@
+--> Emergency patient routing in Python involves creating a system that optimally directs ambulances to 
+    the nearest healthcare facilities based on real-time data.
+--> Geospatial libraries like Google Maps API can be integrated with 
+    Python to handle location-based calculations for ambulance routing.
+-->Integration with GPS and GIS data can enhance the accuracy of location-based decisions in emergency patient 
+   routing systems developed using Python
